@@ -1,25 +1,7 @@
-# 200 Exercícios em Java
+## 200 Exercícios em Java
 
 Este repositório contém minha resolução dos **200 exercícios em Java** propostos no livro 200 Exercícios Java: Domine Java através de exercícios e se prepare para o mercado de trabalho 📘. O objetivo é praticar lógica de programação, estrutura de dados, 
 programação orientada a objetos e boas práticas em Java.
-
-## 📚 Estrutura
-
-Os exercícios estão organizados por capítulos ou seções do livro, da seguinte forma:
-
-exercicios/
-├── capitulo-01/
-│ ├── Exercicio01.java
-│ ├── Exercicio02.java
-│ └── ...
-├── capitulo-02/
-│ ├── Exercicio01.java
-│ └── ...
-└── ...
-
-yaml
-Copiar
-Editar
 
 ## 🚀 Progresso ✅
 
