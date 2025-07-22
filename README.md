@@ -5,7 +5,7 @@ programação orientada a objetos e boas práticas em Java.
 
 ## 🚀 Progresso ✅
 
-⬜ Capítulo 01: 1/10  
+⬜ Capítulo 01: 3/10  
 ⬜ Capítulo 02: 0/10  
 ⬜ Capítulo 03: 0/10  
 ⬜ Capítulo 04: 0/10  
