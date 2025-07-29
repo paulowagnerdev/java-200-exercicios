@@ -6,11 +6,13 @@ O objetivo é praticar lógica de programação, estrutura de dados, programaç�
 
 ✅ 🚀 Progresso
 
-⬜ Capítulo 01: 5/10
+⬜ Capítulo 01: 10/10
 
-⬜ Total: 4/200
+⬜ Capítulo 02: 3/10
 
-Atualizado em: 23/07/2025
+⬜ Total: 13/200
+
+Atualizado em: 29/07/2025
 
 🧠 Sobre o projeto Cada exercício está comentado com o enunciado e minha solução. É um projeto pessoal para fortalecer meu conhecimento em Java e manter meu GitHub ativo.
 

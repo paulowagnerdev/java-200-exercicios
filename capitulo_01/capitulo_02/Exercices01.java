@@ -22,6 +22,8 @@ public class Exercices01 {
 		System.out.println("MULTIPLICAÇÃO = " + (num1 * num2));
 		System.out.println("DIVISÃO = " + (num1 / num2));
 		System.out.println("MÓDULO = " + (num1 % num2));
+		
+		sc.close();
 
 	}
 
